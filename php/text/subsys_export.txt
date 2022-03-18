@@ -1,0 +1,9 @@
+    // file created on July 17, 2005, 9:59 pm
+    
+    // menu details for subsystem SAMPLE
+    
+    // task details for subsystem SAMPLE
+    
+    // navigation button details for subsystem SAMPLE
+    
+    // finished
